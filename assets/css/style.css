@@ -224,6 +224,7 @@ input[type=submit] {
 
   #masthead {
     width: 100%;
+    padding-right: 30px;
   }
 
 }
@@ -236,7 +237,7 @@ input[type=submit] {
 
   #masthead {
     width: 100%;
-    text-align: center;
+    padding-right: 30px;
   }
 
 }
@@ -247,13 +248,14 @@ input[type=submit] {
     width: 100%;
   }
 
-  #masthead {
+  nav {
     width: 100%;
     text-align: center;
+    padding-bottom: 20px;
   }
+
 
   #logo {
     width: 100%;
   }
-
 }
