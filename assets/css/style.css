@@ -237,7 +237,6 @@ input[type=submit] {
 
   #masthead {
     width: 100%;
-    padding-right: 30px;
   }
 
 }
@@ -252,6 +251,10 @@ input[type=submit] {
     width: 100%;
     text-align: center;
     padding-bottom: 20px;
+  }
+
+  #masthead {
+    padding-right: 0px;
   }
 
 
